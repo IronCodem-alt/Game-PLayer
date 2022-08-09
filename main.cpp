@@ -9,7 +9,7 @@ Description    : Play games :P
 #include <iostream>
 #include <string>
 #include <fstream>
-#include "colors.h"
+#include "colours.h"
 #include "TicTacToe.h"
 #include "GuessMyNum.h"
 
